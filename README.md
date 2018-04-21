@@ -1,1 +1,1 @@
-  [点击打开](http://www.zhuxb.com/dist/)
+  [点击打开](./dist/)
